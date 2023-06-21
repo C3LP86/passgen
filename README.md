@@ -55,6 +55,7 @@ options:
 
 ##### Example :
 
+![example_passgen](https://github.com/C3LP86/passgen/assets/128266832/8176ece4-a4f1-465f-a73c-63dc1115113e)
 
 
 
