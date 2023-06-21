@@ -56,7 +56,6 @@ options:
 ##### Example :
 
 
-![Capture d'écran 2023-06-21 225254](https://github.com/C3LP86/passgen/assets/128266832/228c854f-000e-41c8-8a7e-bc70877a284c)
 
 
 
