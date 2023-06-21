@@ -4,7 +4,7 @@
 
 ##### English :
 
-````
+
 PassGen is an advanced tool for generating strong passwords, whether for personal use or to create a wordlist. It offers the option of double-encrypting passwords using the SHA-256 and SHA-3 hash algorithms, thus enhancing the security of your data.
 
 You'll benefit from a wide range of arguments for password generation, encryption, combined generation with encryption, as well as content transfer to a file.
@@ -13,13 +13,13 @@ When generating passwords, you'll have full control over specifying the number o
 taking advantage of an automatic generation option with double encryption.
 
 So you can manage your password generation and encryption with ease.
-````
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##### French :
 
-````
+
 PassGen est un outil avancé qui vous permet de générer des mots de passe robustes, que ce soit pour un usage personnel ou pour créer une wordlist. Il offre la possibilité de réaliser un double chiffrement des mots de passe en utilisant les algorithmes de hachage SHA-256 et SHA-3, renforçant ainsi la sécurité de vos données.
 
 Vous bénéficierez d'une étendue d'arguments pour la génération de mots de passe, le chiffrement, la génération combinée avec chiffrement, ainsi que le transfert du contenu vers un fichier.
@@ -27,7 +27,7 @@ Vous bénéficierez d'une étendue d'arguments pour la génération de mots de p
 Lors de la génération des mots de passe, vous aurez le contrôle total pour spécifier le nombre de caractères et le nombre de mots de passe souhaités. En ce qui concerne le chiffrement, vous aurez la possibilité de chiffrer votre propre mot de passe, mais également de profiter d'une option de génération automatique avec double chiffrement.
 
 Ainsi, vous pourrez gérer efficacement la génération et le chiffrement de vos mots de passe en toute simplicité.
-````
+
 
 ### Utilisation :
 
