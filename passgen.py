@@ -4,11 +4,17 @@ import string
 import hashlib
 import pyfiglet
 
+pseudo = "C3LP86"
+
 print("")
 print("<====================================================================================>")
 
 ascii_banner = pyfiglet.figlet_format("PASSGEN")
-print(  ascii_banner  )
+banniere = f"""
+{ascii_banner}
+Programme réalisé par {pseudo}
+"""
+print(banniere)
 
 print("<====================================================================================>")
 print("")
