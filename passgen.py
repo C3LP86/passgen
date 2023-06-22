@@ -12,7 +12,7 @@ print("<========================================================================
 ascii_banner = pyfiglet.figlet_format("PASSGEN")
 banniere = f"""
 {ascii_banner}
-Programme réalisé par {pseudo}
+Program produced by {pseudo}
 """
 print(banniere)
 
